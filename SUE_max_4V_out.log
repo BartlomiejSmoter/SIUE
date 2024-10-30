@@ -80,25 +80,3 @@ Ignoring empty pin current: Ix(u9:1)
 Ignoring empty pin current: Ix(u9:2)
 .step ux=0
 .step ux=0.5
-.step ux=1
-.step ux=1.5
-.step ux=2
-
-Date: Wed Oct 30 17:37:22 2024
-Total elapsed time: 35.260 seconds.
-
-tnom = 27
-temp = 27
-method = modified trap
-totiter = 681980
-traniter = 679623
-tranpoints = 297859
-accept = 257363
-rejected = 40496
-matrix size = 76
-fillins = 62
-solver = Normal
-Avg thread counts: 4.0/4.0/1.0/1.0
-Matrix Compiler1: 5.97 KB object code size  1.2/0.6/[0.5]
-Matrix Compiler2: 7.02 KB object code size  0.4/0.5/[0.3]
-

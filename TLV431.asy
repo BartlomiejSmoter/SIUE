@@ -1,0 +1,17 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -48 -40 64 40
+WINDOW 0 8 -40 Bottom 2
+WINDOW 3 8 40 Top 2
+SYMATTR Prefix X
+SYMATTR Value TLV431
+SYMATTR ModelFile C:\Users\Admin\Documents\Studia\LM331m1(1)\tlv431.lib
+PIN -48 0 LEFT 8
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN 64 -16 RIGHT 8
+PINATTR PinName K
+PINATTR SpiceOrder 2
+PIN 64 16 RIGHT 8
+PINATTR PinName Fdbk
+PINATTR SpiceOrder 3

@@ -1,0 +1,27 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 64 0 -32 -47
+LINE Normal -32 48 64 0
+LINE Normal -32 -47 -32 48
+LINE Normal 0 -31 0 -48
+LINE Normal 0 32 0 48
+WINDOW 0 0 -56 Bottom 2
+WINDOW 3 0 56 Top 2
+SYMATTR Prefix X
+SYMATTR Value TS912
+SYMATTR ModelFile C:\Users\Admin\Documents\Studia\LM331m1(1)\TS912AIDT.lib
+PIN -32 -16 LEFT 8
+PINATTR PinName -
+PINATTR SpiceOrder 1
+PIN -32 16 LEFT 8
+PINATTR PinName +
+PINATTR SpiceOrder 2
+PIN 64 0 NONE 8
+PINATTR PinName 3
+PINATTR SpiceOrder 3
+PIN 0 -48 LEFT 8
+PINATTR PinName +
+PINATTR SpiceOrder 4
+PIN 0 48 LEFT 8
+PINATTR PinName -
+PINATTR SpiceOrder 5
